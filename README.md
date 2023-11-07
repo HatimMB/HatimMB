@@ -1,4 +1,5 @@
-### Hi there 👋
+## _Hello there 👋_ 
+### I’m currently in high school and I’m looking forward to developing new projects/contributing to existing ones!
 
 <!--
 **HatimMB/HatimMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
